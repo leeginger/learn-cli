@@ -8,3 +8,4 @@
 - switch
 - log
 - restore
+- merge
